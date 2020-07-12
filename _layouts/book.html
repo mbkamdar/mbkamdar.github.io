@@ -1,0 +1,40 @@
+---
+layout: single  
+---
+
+<div itemscope itemtype="http://schema.org/Review">
+<span itemprop=reviewRating itemscope itemtype=http://schema.org/Rating><meta content=1 itemprop=worstRating><meta content={{ book.rating }} itemprop=ratingValue><meta content=5 itemprop=bestRating></span>
+<div itemprop="itemReviewed" itemscope itemtype="http://schema.org/Book">
+  {% assign book = page %}
+  {% if book.img == true %}
+  <img class="book-full-img" src="{{ site.url }}/assets/images/books/{{ book.slug }}.jpg" alt="{{ book.title }}" />
+  {% endif %}
+  <h3>{{ book.subtitle }}</h3>
+  <h3>by <span itemprop="author">{{ book.author }}</span></h3>
+  {% if book.date_completed %}
+  <span>Completed: {{ book.date_completed | date: '%B %-d, %Y'}}</span>
+  {% endif %}
+  <div class="book-data">
+    <ul>
+      <li>{{ book.genre | capitalize}}</li>
+      <li><span itemprop="numberOfPages">{{ book.pages }}</span> pages</li>
+      <li>ISBN: <a href="https://worldcat.org/isbn/{{ book.isbn }}"><span itemprop="isbn">{{ book.isbn }}</span></a></li> 
+      <li><a href="https://www.goodreads.com/book/show/{{ book.goodreads_id }}" title="{{ book.title }}">Goodreads</a> page</li>
+    </ul>
+  </div>
+</div>
+<div itemprop="publisher" itemscope itemtype=http://schema.org/Organization>
+  <meta content="{{ site.url }}" itemprop="url">
+</div>
+<meta content="Mehul Kamdar" itemprop="author">  
+<meta content="{{ site.url }}{{ book.url }}" itemprop="url">
+<meta content="{{ book.date_completed }}" itemprop="datePublished">
+<meta content="A review of {{ book.title }}" itemprop="description">
+</div>
+
+{% include book-rating.html %}
+<div class="body">{{ content }}</div>
+
+<div class="page-bottom">
+  <p>All book cover images are from Goodreads unless specified otherwise.</p>
+</div>

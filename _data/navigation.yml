@@ -1,0 +1,68 @@
+# main links
+main:
+  - title: "About"
+    url: /about/
+  - title: "Books"
+    url: /books/
+  - title: "Links"
+    url: /links/
+  - title: "Blog Posts"
+    url: /year-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+
+# books links
+books:
+  - title: "Books"
+    url: /books/
+    children:
+    - title: "Science Fiction"
+      url: /books/science-fiction
+    - title: "Modern Fiction"
+      url: /books/modern-fiction
+    - title: "Classic Fiction"
+      url: /books/classic-fiction
+    - title: "Science & Tech"
+      url: /books/science-tech
+    - title: "Philosophy"
+      url: /books/philosophy
+    - title: "History"
+      url: /books/history
+    - title: "Biographies & Memoirs"
+      url: /books/biographies
+    - title: "Other Non-fiction"
+      url: /books/other-non-fiction
+
+# other non-fiction page links
+other:
+  - title: "Table of Contents"
+    url: /books/other-non-fiction/
+    children:
+    - title: "Completed"
+      url: /books/other-non-fiction#completed
+    - title: "Economics, the political economy, etc."
+      url: /books/other-non-fiction#economics-the-political-economy-etc
+    - title: "On writing"
+      url: /books/other-non-fiction#on-writing
+    - title: "Other non-fiction"
+      url: /books/other-non-fiction#other-non-fiction
+    - title: "Reflections on self, productivity, etc."
+      url: /books/other-non-fiction#reflections-on-self-productivity-etc
+
+# science-tech page links
+science-tech:
+  - title: "Table of Contents"
+    url: /books/science-tech/
+    children:
+    - title: "Completed"
+      url: /books/science-tech#completed
+    - title: "Physics"
+      url: /books/science-tech#physics
+    - title: "Mathematics"
+      url: /books/science-tech#mathematics
+    - title: "Neuroscience"
+      url: /books/science-tech#neuroscience
+    - title: "Biology, medicine"
+      url: /books/science-tech#biology-medicine
+    - title: "Technology, computer science"
+      url: /books/science-tech#technology-computer-science

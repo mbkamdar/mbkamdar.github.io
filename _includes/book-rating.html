@@ -1,0 +1,14 @@
+<span class="rating">
+    {% if book.rating == 5 %}
+    ★★★★★
+    {% elsif book.rating == 4 %}
+    ★★★★
+    {% elsif book.rating == 3 %}
+    ★★★
+    {% elsif book.rating == 2 %}
+    ★★
+    {% elsif book.rating == 1 %}
+    ★
+    {% else %}
+    {% endif %}
+</span>
