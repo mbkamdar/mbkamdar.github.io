@@ -24,7 +24,7 @@ The order below is roughly the order in which I intend to read these books.  If 
                 {% if book.genre == 'physics' or book.genre == 'math' or book.genre == 'neuroscience' or book.genre == 'neuro-texts' or book.genre == 'biology' or book.genre == 'tech' %}
                 <tr>
                     <td>{% if book.img == true %}
-                        <img class="book-small-img" src="{{ site.url }}/assets/images/books/{{ book.slug }}.jpg" alt="{{ book.title }}" />
+                        <img class="book-small-img" src="{{ site.url }}/assets/images/books/{{ book.slug }}-small.jpg" alt="{{ book.title }}" />
                         {% endif %}
                     </td>
                     <td>{{ book.author }}</td>
@@ -46,7 +46,7 @@ The order below is roughly the order in which I intend to read these books.  If 
             {% unless book.rating %}
             <tr>
                 <td>{% if book.img == true %}
-                    <img class="book-small-img" src="{{ site.url }}/assets/images/books/{{ book.slug }}.jpg" alt="{{ book.title }}" />
+                    <img class="book-small-img" src="{{ site.url }}/assets/images/books/{{ book.slug }}-small.jpg" alt="{{ book.title }}" />
                     {% endif %}
                 </td>
                 <td>{{ book.author }}</td>
@@ -66,7 +66,7 @@ The order below is roughly the order in which I intend to read these books.  If 
             {% unless book.rating %}
             <tr>
                 <td>{% if book.img == true %}
-                    <img class="book-small-img" src="{{ site.url }}/assets/images/books/{{ book.slug }}.jpg" alt="{{ book.title }}" />
+                    <img class="book-small-img" src="{{ site.url }}/assets/images/books/{{ book.slug }}-small.jpg" alt="{{ book.title }}" />
                     {% endif %}
                 </td>
                 <td>{{ book.author }}</td>
@@ -85,7 +85,7 @@ The order below is roughly the order in which I intend to read these books.  If 
             {% unless book.rating %}
             <tr>
                 <td>{% if book.img == true %}
-                    <img class="book-small-img" src="{{ site.url }}/assets/images/books/{{ book.slug }}.jpg" alt="{{ book.title }}" />
+                    <img class="book-small-img" src="{{ site.url }}/assets/images/books/{{ book.slug }}-small.jpg" alt="{{ book.title }}" />
                     {% endif %}
                 </td>
                 <td>{{ book.author }}</td>
@@ -106,7 +106,7 @@ The order below is roughly the order in which I intend to read these books.  If 
             {% unless book.rating %}
             <tr>
                 <td>{% if book.img == true %}
-                    <img class="book-small-img" src="{{ site.url }}/assets/images/books/{{ book.slug }}.jpg" alt="{{ book.title }}" />
+                    <img class="book-small-img" src="{{ site.url }}/assets/images/books/{{ book.slug }}-small.jpg" alt="{{ book.title }}" />
                     {% endif %}
                 </td>
                 <td>{{ book.author }}</td>
@@ -126,7 +126,7 @@ The order below is roughly the order in which I intend to read these books.  If 
             {% unless book.rating %}
             <tr>
                 <td>{% if book.img == true %}
-                    <img class="book-small-img" src="{{ site.url }}/assets/images/books/{{ book.slug }}.jpg" alt="{{ book.title }}" />
+                    <img class="book-small-img" src="{{ site.url }}/assets/images/books/{{ book.slug }}-small.jpg" alt="{{ book.title }}" />
                     {% endif %}
                 </td>
                 <td>{{ book.author }}</td>
@@ -146,7 +146,7 @@ The order below is roughly the order in which I intend to read these books.  If 
             {% unless book.rating %}
             <tr>
                 <td>{% if book.img == true %}
-                    <img class="book-small-img" src="{{ site.url }}/assets/images/books/{{ book.slug }}.jpg" alt="{{ book.title }}" />
+                    <img class="book-small-img" src="{{ site.url }}/assets/images/books/{{ book.slug }}-small.jpg" alt="{{ book.title }}" />
                     {% endif %}
                 </td>
                 <td>{{ book.author }}</td>
@@ -166,7 +166,7 @@ The order below is roughly the order in which I intend to read these books.  If 
             {% unless book.rating %}
             <tr>
                 <td>{% if book.img == true %}
-                    <img class="book-small-img" src="{{ site.url }}/assets/images/books/{{ book.slug }}.jpg" alt="{{ book.title }}" />
+                    <img class="book-small-img" src="{{ site.url }}/assets/images/books/{{ book.slug }}-small.jpg" alt="{{ book.title }}" />
                     {% endif %}
                 </td>
                 <td>{{ book.author }}</td>
@@ -186,7 +186,7 @@ The order below is roughly the order in which I intend to read these books.  If 
             {% unless book.rating %}
             <tr>
                 <td>{% if book.img == true %}
-                    <img class="book-small-img" src="{{ site.url }}/assets/images/books/{{ book.slug }}.jpg" alt="{{ book.title }}" />
+                    <img class="book-small-img" src="{{ site.url }}/assets/images/books/{{ book.slug }}-small.jpg" alt="{{ book.title }}" />
                     {% endif %}
                 </td>
                 <td>{{ book.author }}</td>
@@ -207,7 +207,7 @@ The order below is roughly the order in which I intend to read these books.  If 
             {% unless book.rating %}
             <tr>
                 <td>{% if book.img == true %}
-                    <img class="book-small-img" src="{{ site.url }}/assets/images/books/{{ book.slug }}.jpg" alt="{{ book.title }}" />
+                    <img class="book-small-img" src="{{ site.url }}/assets/images/books/{{ book.slug }}-small.jpg" alt="{{ book.title }}" />
                     {% endif %}
                 </td>
                 <td>{{ book.author }}</td>
@@ -227,7 +227,7 @@ The order below is roughly the order in which I intend to read these books.  If 
             {% unless book.rating %}
             <tr>
                 <td>{% if book.img == true %}
-                    <img class="book-small-img" src="{{ site.url }}/assets/images/books/{{ book.slug }}.jpg" alt="{{ book.title }}" />
+                    <img class="book-small-img" src="{{ site.url }}/assets/images/books/{{ book.slug }}-small.jpg" alt="{{ book.title }}" />
                     {% endif %}
                 </td>
                 <td>{{ book.author }}</td>
@@ -246,7 +246,7 @@ The order below is roughly the order in which I intend to read these books.  If 
             {% unless book.rating %}
             <tr>
                 <td>{% if book.img == true %}
-                    <img class="book-small-img" src="{{ site.url }}/assets/images/books/{{ book.slug }}.jpg" alt="{{ book.title }}" />
+                    <img class="book-small-img" src="{{ site.url }}/assets/images/books/{{ book.slug }}-small.jpg" alt="{{ book.title }}" />
                     {% endif %}
                 </td>
                 <td>{{ book.author }}</td>

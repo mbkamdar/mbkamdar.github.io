@@ -17,7 +17,7 @@ Here is my current reading list for fiction (excluding science fiction, covered 
             {% if book.genre == 'modern' and book.rating %}
             <tr>
                 <td>{% if book.img == true %}
-                    <img class="book-small-img" src="{{ site.url }}/assets/images/books/{{ book.slug }}.jpg" alt="{{ book.title }}" />
+                    <img class="book-small-img" src="{{ site.url }}/assets/images/books/{{ book.slug }}-small.jpg" alt="{{ book.title }}" />
                     {% endif %}
                 </td>
                 <td>{{ book.author }}</td>
@@ -37,7 +37,7 @@ Here is my current reading list for fiction (excluding science fiction, covered 
             {% unless book.rating %}
             <tr>
                 <td>{% if book.img == true %}
-                    <img class="book-small-img" src="{{ site.url }}/assets/images/books/{{ book.slug }}.jpg" alt="{{ book.title }}" />
+                    <img class="book-small-img" src="{{ site.url }}/assets/images/books/{{ book.slug }}-small.jpg" alt="{{ book.title }}" />
                     {% endif %}
                 </td>
                 <td>{{ book.author }}</td>
@@ -57,7 +57,7 @@ Here is my current reading list for fiction (excluding science fiction, covered 
             {% unless book.rating %}
             <tr>
                 <td>{% if book.img == true %}
-                    <img class="book-small-img" src="{{ site.url }}/assets/images/books/{{ book.slug }}.jpg" alt="{{ book.title }}" />
+                    <img class="book-small-img" src="{{ site.url }}/assets/images/books/{{ book.slug }}-small.jpg" alt="{{ book.title }}" />
                     {% endif %}
                 </td>
                 <td>{{ book.author }}</td>
@@ -78,7 +78,7 @@ Here is my current reading list for fiction (excluding science fiction, covered 
             {% unless book.rating %}
             <tr>
                 <td>{% if book.img == true %}
-                    <img class="book-small-img" src="{{ site.url }}/assets/images/books/{{ book.slug }}.jpg" alt="{{ book.title }}" />
+                    <img class="book-small-img" src="{{ site.url }}/assets/images/books/{{ book.slug }}-small.jpg" alt="{{ book.title }}" />
                     {% endif %}
                 </td>
                 <td>{{ book.author }}</td>

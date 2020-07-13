@@ -22,7 +22,7 @@ As usual, if there are any must-reads that I've missed or that you'd re-prioriti
                 {% if book.genre == 'writing' or book.genre == 'economics' or book.genre == 'self' or book.genre == 'other' %}
                 <tr>
                     <td>{% if book.img == true %}
-                        <img class="book-small-img" src="{{ site.url }}/assets/images/books/{{ book.slug }}.jpg" alt="{{ book.title }}" />
+                        <img class="book-small-img" src="{{ site.url }}/assets/images/books/{{ book.slug }}-small.jpg" alt="{{ book.title }}" />
                         {% endif %}
                     </td>
                     <td>{{ book.author }}</td>
@@ -43,7 +43,7 @@ As usual, if there are any must-reads that I've missed or that you'd re-prioriti
             {% unless book.rating %}
             <tr>
                 <td>{% if book.img == true %}
-                    <img class="book-small-img" src="{{ site.url }}/assets/images/books/{{ book.slug }}.jpg" alt="{{ book.title }}" />
+                    <img class="book-small-img" src="{{ site.url }}/assets/images/books/{{ book.slug }}-small.jpg" alt="{{ book.title }}" />
                     {% endif %}
                 </td>
                 <td>{{ book.author }}</td>
@@ -63,7 +63,7 @@ As usual, if there are any must-reads that I've missed or that you'd re-prioriti
             {% unless book.rating %}
             <tr>
                 <td>{% if book.img == true %}
-                    <img class="book-small-img" src="{{ site.url }}/assets/images/books/{{ book.slug }}.jpg" alt="{{ book.title }}" />
+                    <img class="book-small-img" src="{{ site.url }}/assets/images/books/{{ book.slug }}-small.jpg" alt="{{ book.title }}" />
                     {% endif %}
                 </td>
                 <td>{{ book.author }}</td>
@@ -84,7 +84,7 @@ As usual, if there are any must-reads that I've missed or that you'd re-prioriti
             {% unless book.rating %}
             <tr>
                 <td>{% if book.img == true %}
-                    <img class="book-small-img" src="{{ site.url }}/assets/images/books/{{ book.slug }}.jpg" alt="{{ book.title }}" />
+                    <img class="book-small-img" src="{{ site.url }}/assets/images/books/{{ book.slug }}-small.jpg" alt="{{ book.title }}" />
                     {% endif %}
                 </td>
                 <td>{{ book.author }}</td>
@@ -104,7 +104,7 @@ As usual, if there are any must-reads that I've missed or that you'd re-prioriti
             {% unless book.rating %}
             <tr>
                 <td>{% if book.img == true %}
-                    <img class="book-small-img" src="{{ site.url }}/assets/images/books/{{ book.slug }}.jpg" alt="{{ book.title }}" />
+                    <img class="book-small-img" src="{{ site.url }}/assets/images/books/{{ book.slug }}-small.jpg" alt="{{ book.title }}" />
                     {% endif %}
                 </td>
                 <td>{{ book.author }}</td>
@@ -124,7 +124,7 @@ As usual, if there are any must-reads that I've missed or that you'd re-prioriti
             {% unless book.rating %}
             <tr>
                 <td>{% if book.img == true %}
-                    <img class="book-small-img" src="{{ site.url }}/assets/images/books/{{ book.slug }}.jpg" alt="{{ book.title }}" />
+                    <img class="book-small-img" src="{{ site.url }}/assets/images/books/{{ book.slug }}-small.jpg" alt="{{ book.title }}" />
                     {% endif %}
                 </td>
                 <td>{{ book.author }}</td>
@@ -146,7 +146,7 @@ As usual, if there are any must-reads that I've missed or that you'd re-prioriti
             {% unless book.rating %}
             <tr>
                 <td>{% if book.img == true %}
-                    <img class="book-small-img" src="{{ site.url }}/assets/images/books/{{ book.slug }}.jpg" alt="{{ book.title }}" />
+                    <img class="book-small-img" src="{{ site.url }}/assets/images/books/{{ book.slug }}-small.jpg" alt="{{ book.title }}" />
                     {% endif %}
                 </td>
                 <td>{{ book.author }}</td>
@@ -166,7 +166,7 @@ As usual, if there are any must-reads that I've missed or that you'd re-prioriti
             {% unless book.rating %}
             <tr>
                 <td>{% if book.img == true %}
-                    <img class="book-small-img" src="{{ site.url }}/assets/images/books/{{ book.slug }}.jpg" alt="{{ book.title }}" />
+                    <img class="book-small-img" src="{{ site.url }}/assets/images/books/{{ book.slug }}-small.jpg" alt="{{ book.title }}" />
                     {% endif %}
                 </td>
                 <td>{{ book.author }}</td>
