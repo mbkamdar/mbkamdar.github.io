@@ -49,7 +49,7 @@ Some of my all time favourites:
     - [Hacker News](https://news.ycombinator.com/)
     - [Lobsters](https://lobste.rs/)
 * Newsletters
-    - [Brekaing Smart](https://breakingsmart.substack.com/) by Venkatesh Rao (of Ribbonfarm)
+    - [Breaking Smart](https://breakingsmart.substack.com/) by Venkatesh Rao (of Ribbonfarm)
     - [The Prepared](https://theprepared.org/newsletter): phenomenal; about engineering and manufacturing
     - [Why is this interesting?](https://whyisthisinteresting.substack.com/): daily, about random things
     - [Benedict Evans](https://www.ben-evans.com/newsletter) on tech stuff
