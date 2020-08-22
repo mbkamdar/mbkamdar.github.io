@@ -1,8 +1,8 @@
 ---
 title: "Asymmetry"
 subtitle: 
-author: Gael Faye
-author_last: Faye
+author: Lisa Halliday
+author_last: Halliday
 slug: halliday-asymmetry
 type: fiction
 img: true
