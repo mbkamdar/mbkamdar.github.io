@@ -60,6 +60,7 @@ Some of my all time favourites:
     - [Austin Kleon](https://austinkleon.com/newsletter/) on being a creator
     - [Age of Invention](https://antonhowes.substack.com/) on the causes of the Industrial Revolution
 * India specific
+    - [Brown Pundits](https://www.brownpundits.com/) - great blog covering history, philosophy, sociology, and the like. Covers more than just India of course.
     - [Finshots](https://finshots.in/archive/) about things related to the Indian economy and the world of finance
     - For personal finance: [freefincal](https://freefincal.com/)
     - [Keeping Up With India](https://hind.substack.com/)
