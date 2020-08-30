@@ -36,6 +36,7 @@ As usual, if there are any must-reads that I've missed or that you'd re-prioriti
 </div>
 
 ## Economics, the political economy, etc.
+#### Higher priority
 <div>
     <table cellspacing="0">
         {% assign books = site.books | where: "genre", "economics" | where: "priority", "high" %}
@@ -54,6 +55,46 @@ As usual, if there are any must-reads that I've missed or that you'd re-prioriti
         {% endfor %}
     </table>
 </div>
+
+#### Lower priority
+<div>
+    <table cellspacing="0">
+        {% assign books = site.books | where: "genre", "economics" | where: "priority", "medium" %}
+        {% for book in books %}
+            {% unless book.rating %}
+            <tr>
+                <td>{% if book.img == true %}
+                    <img class="book-small-img" src="{{ site.url }}/assets/images/books/{{ book.slug }}-small.jpg" alt="{{ book.title }}" />
+                    {% endif %}
+                </td>
+                <td>{{ book.author }}</td>
+                <td><a href='{{ book.url }}'>{{ book.title }}</a></td>
+                <td>{% include book-rating.html %}</td>
+            </tr>
+            {% endunless %}
+        {% endfor %}
+    </table>
+</div>
+<br>
+<div>
+    <table cellspacing="0">
+        {% assign books = site.books | where: "genre", "economics" | where: "priority", "low" %}
+        {% for book in books %}
+            {% unless book.rating %}
+            <tr>
+                <td>{% if book.img == true %}
+                    <img class="book-small-img" src="{{ site.url }}/assets/images/books/{{ book.slug }}-small.jpg" alt="{{ book.title }}" />
+                    {% endif %}
+                </td>
+                <td>{{ book.author }}</td>
+                <td><a href='{{ book.url }}'>{{ book.title }}</a></td>
+                <td>{% include book-rating.html %}</td>
+            </tr>
+            {% endunless %}
+        {% endfor %}
+    </table>
+</div>
+
 
 ## On writing
 <div>
