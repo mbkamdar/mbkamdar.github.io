@@ -14,5 +14,5 @@ pages: 288
 rating: 
 date_started:
 date_completed:
-priority: high
+priority: medium
 ---
