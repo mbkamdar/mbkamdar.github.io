@@ -42,6 +42,7 @@ Some of my all time favourites:
 * The inimitable [Gwern](https://www.gwern.net/)
 * [Ribbonfarm](https://www.ribbonfarm.com/)
 * [Alexey Guzey](https://guzey.com/)
+* [Dormin](https://dormin.org/)
 * [Slate Star Codex](https://slatestarcodex.com/)
 * [The Roots of Progress](https://rootsofprogress.org/posts)
 * Forums / aggregators
@@ -61,7 +62,8 @@ Some of my all time favourites:
     - [Age of Invention](https://antonhowes.substack.com/) on the causes of the Industrial Revolution
 * India specific
     - [Brown Pundits](https://www.brownpundits.com/) - great blog covering history, philosophy, sociology, and the like. Covers more than just India of course.
+    - [The Caravan](https://caravanmagazine.in/)
     - [Finshots](https://finshots.in/archive/) about things related to the Indian economy and the world of finance
+    - [Finception](https://finception.in/) is similarly about the Indian economy
     - For personal finance: [freefincal](https://freefincal.com/)
     - [Keeping Up With India](https://hind.substack.com/)
-    - [The Caravan](https://caravanmagazine.in/)
