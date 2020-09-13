@@ -42,11 +42,13 @@ Some of my all time favourites:
 * The inimitable [Gwern](https://www.gwern.net/)
 * [Ribbonfarm](https://www.ribbonfarm.com/)
 * [Alexey Guzey](https://guzey.com/)
+* [Fantastic Anachronism](https://fantasticanachronism.com/)
 * [Dormin](https://dormin.org/)
 * [Slate Star Codex](https://slatestarcodex.com/)
 * [The Roots of Progress](https://rootsofprogress.org/posts)
 * Forums / aggregators
     - [LessWrong](https://www.lesswrong.com/)
+    - [Data Secrets Lox](https://www.datasecretslox.com/index.php): a Slate Star Codex reader community
     - [Hacker News](https://news.ycombinator.com/)
     - [Lobsters](https://lobste.rs/)
 * Newsletters
