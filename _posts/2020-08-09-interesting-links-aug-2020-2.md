@@ -1,11 +1,13 @@
 ---
-title: "Interesting Links: August 9, 2020"
+title: On game design, Bill Gates on Covid, the effects of colonial land tenure in India, the abuse of labor, and on innovation
 date: 2020-08-09
 categories:
     - assorted-links
 tags:
     - assorted-links
 ---
+
+## Interesting Links: August 9, 2020
 
 > "The secret to good game design is simple. Set up situations where there is a problem that must be solved and let the user solve it. Set up situations where there is a problem that must be solved and let the user solve it. Give them subtle clues, but don't take away that 'aha' moment.
 >  

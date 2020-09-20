@@ -1,11 +1,13 @@
 ---
-title: "Interesting Links: August 23, 2020"
+title: On Apple's abuse of power, the crisis in tennis, the genius of Amartya Sen, and the workings of DARPA
 date: 2020-08-23
 categories:
     - assorted-links
 tags:
     - assorted-links
 ---
+
+## Interesting Links: August 23, 2020
 
 1. [Apple, Epic and the App Store](https://stratechery.com/2020/apple-epic-and-the-app-store/) by Ben Thompson at Stratechery. Epic Games initiated legal action against both Apple and Google about their allegedly anticompetitive practices when it comes to payment processing for apps on their app stores.  It's yet another large 'cry for help' from many companies and developers around the world against these two (Apple in particular.)
 

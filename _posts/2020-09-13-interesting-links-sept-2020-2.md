@@ -1,11 +1,13 @@
 ---
-title: "Interesting Links: September 13, 2020"
+title: On problems with social science, VC investing, collusion, and weird physics
 date: 2020-09-13
 categories:
     - assorted-links
 tags:
     - assorted-links
 ---
+
+## Interesting Links: September 13, 2020
 
 > ...diving into the sea of trash that is social science gives you a more tangible perspective, a more visceral revulsion, and perhaps even a sense of Lovecraftian awe at the sheer magnitude of it all: a vast landfill—a great agglomeration of garbage extending as far as the eye can see, effluvious waves crashing and throwing up a foul foam of p=0.049 papers.
 > 

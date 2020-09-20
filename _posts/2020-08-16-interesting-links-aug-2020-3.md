@@ -1,11 +1,13 @@
 ---
-title: "Interesting Links: August 16, 2020"
+title: On Pinduoduo, economics of AI startups, Indian infrastructure, and cutting-edge physics infrastructure
 date: 2020-08-16
 categories:
     - assorted-links
 tags:
     - assorted-links
 ---
+
+## Interesting Links: August 16, 2020
 
 > Underdevelopment is never improvised: it is the work of many centuries.  
 > <cite>- Nelson Rodrigues, Brazilian playwright</cite>

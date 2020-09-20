@@ -1,11 +1,13 @@
 ---
-title: "Interesting Links: September 6, 2020"
+title: On cheating in Indian education, India's economic woes, understanding Chinese education, and the Opium Wars
 date: 2020-09-06
 categories:
     - assorted-links
 tags:
     - assorted-links
 ---
+
+## Interesting Links: September 6, 2020
 
 1. Cheating in Indian schools - [Great paper on how school-reported levels of student learning in India can be highly inflated](https://www.dropbox.com/s/knrc9mvx5gdplw3/Data_Integrity_Aug2020.pdf) using Madhya Pradesh data as an example. The [author's website](https://www.abhijeetsingh.dev/working-papers) also lists links to the working paper in case the link above stops working.  [Karthik Muralidharan recently tweeted](https://twitter.com/karthik_econ/status/1300425609760460802) about this paper.
 

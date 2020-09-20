@@ -1,11 +1,13 @@
 ---
-title: "Interesting Links: August 2, 2020"
+title: On Mumbai Covid seroprevalence, India's new education policy, the history of CSS, and the debacle of US tech antitrust hearings
 date: 2020-08-02
 categories:
     - assorted-links
 tags:
     - assorted-links
 ---
+
+## Interesting Links: August 2, 2020
 
 * [Interpreting Mumbai's sero-prevalence survey results](https://science.thewire.in/health/delhi-mumbai-seroprevalence-survey-results-infection-fatality-rates/) with a [summary of the paper itself](http://maths.mdx.ac.uk/research/modelling-the-covid-19-pandemic/estimating-covid-19-infection-fatality-rate-from-mumbais-seroprevalence-results/).
     - "Mumbai’s population is taken to be 13.5 million.... It is assumed that 41.3% reside in slums. From this we can infer seroprevalence in the city to be 0.57(0.413) + (0.16)0.587=0.32933, namely 33%. This would amount to 4.5 million people having antibodies to SARS-CoV2 by the time of the serosurvey."

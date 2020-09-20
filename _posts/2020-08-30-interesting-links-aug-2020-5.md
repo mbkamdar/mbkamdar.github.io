@@ -1,11 +1,13 @@
 ---
-title: "Interesting Links: August 30, 2020"
+title: On brain-computer interfaces, early education research, tech IPOs and startups, and understanding China 
 date: 2020-08-30
 categories:
     - assorted-links
 tags:
     - assorted-links
 ---
+
+## Interesting Links: August 30, 2020
 
 1. Elon Musk [presented on Neuralink](https://www.youtube.com/watch?v=DVvmgjBL74w) (*Youtube*), with the mission to "solve important brain and spine problems with a seamlessly implanted device". Here, I suffer from the opposite of the Gell-Mann Amnesia effect. I have no idea whether this has potential to be ridiculously revolutionary or another Elizabeth Holmes.
 

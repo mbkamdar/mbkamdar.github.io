@@ -1,11 +1,13 @@
 ---
-title: "Interesting Links: July 26, 2020"
+title: On Bill Joy's pessimism in 2000, Peter Thiel on problems in tech, on Reliance Jio, and private schooling in India
 date: 2020-07-26
 categories:
     - assorted-links
 tags:
     - assorted-links
 ---
+
+## Interesting Links: July 26, 2020
 
 > "Having struggled my entire career to build reliable software systems, it seems to me more than likely that this future will not work out as well as some people may imagine. My personal experience suggests we tend to overestimate our design abilities."
 >
