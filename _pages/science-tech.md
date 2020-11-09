@@ -179,9 +179,30 @@ The order below is roughly the order in which I intend to read these books.  If 
 </div>
 
 ## Biology, Medicine
+#### Higher priority
 <div>
     <table cellspacing="0">
         {% assign books = site.books | where: "genre", "biology" | where: "priority", "high" %}
+        {% for book in books %}
+            {% unless book.rating %}
+            <tr>
+                <td>{% if book.img == true %}
+                    <img class="book-small-img" src="{{ site.url }}/assets/images/books/{{ book.slug }}-small.jpg" alt="{{ book.title }}" />
+                    {% endif %}
+                </td>
+                <td>{{ book.author }}</td>
+                <td><a href='{{ book.url }}'>{{ book.title }}</a></td>
+                <td>{% include book-rating.html %}</td>
+            </tr>
+            {% endunless %}
+        {% endfor %}
+    </table>
+</div>
+
+#### Lower priority
+<div>
+    <table cellspacing="0">
+        {% assign books = site.books | where: "genre", "biology" | where: "priority", "medium" %}
         {% for book in books %}
             {% unless book.rating %}
             <tr>
