@@ -40,6 +40,7 @@ Some of my all time favourites:
 * [Andrew Gelman's Blog](https://statmodeling.stat.columbia.edu/)
 * [Charlie Stross's blog](http://www.antipope.org/charlie/blog-static/)
 * The inimitable [Gwern](https://www.gwern.net/)
+* [Palladium Magazine](https://palladiummag.com/) on the future of governance
 * [Ribbonfarm](https://www.ribbonfarm.com/)
 * [Alexey Guzey](https://guzey.com/)
 * [Fantastic Anachronism](https://fantasticanachronism.com/)
