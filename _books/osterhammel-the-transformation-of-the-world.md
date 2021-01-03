@@ -14,5 +14,5 @@ pages: 1192
 rating: 
 date_started:
 date_completed:
-priority: low
+priority: high
 ---
