@@ -67,6 +67,7 @@ Some of my all time favourites:
     - [Brown Pundits](https://www.brownpundits.com/) - great blog covering history, philosophy, sociology, and the like. Covers more than just India of course.
     - [The Caravan](https://caravanmagazine.in/)
     - [The Leap Blog](https://blog.theleapjournal.org/) - fantastic blog covering law, economics and policy. Edited by [Ajay Shah](http://www.mayin.org/ajayshah/books/isotr2019.html).
+    - [Vivek Kaul](https://vivekkaul.com/articles/) about the Indian economy.
     - [Finshots](https://finshots.in/archive/) about things related to the Indian economy and the world of finance
     - [Finception](https://finception.in/) is similarly about the Indian economy
     - For personal finance: [freefincal](https://freefincal.com/)
