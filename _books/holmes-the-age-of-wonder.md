@@ -6,7 +6,7 @@ author_last: Holmes
 slug: holmes-the-age-of-wonder
 type: non-fiction
 img: true
-genre: other
+genre: history
 isbn: 9780007149520
 goodreads_id: 4371507
 publish_year: 2009
