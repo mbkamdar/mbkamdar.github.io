@@ -1,6 +1,6 @@
 ---
 title: "Sixteen Stormy Days"
-subtitle: "The Stor of the First Amendment of the Constitution of India"
+subtitle: "The Story of the First Amendment of the Constitution of India"
 author: Tripurdaman Singh
 author_last: Singh
 slug: singh-sixteen-stormy-days

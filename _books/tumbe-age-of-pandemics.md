@@ -1,6 +1,6 @@
 ---
 title: "The Age of Pandemics (1817-1920)"
-subtitle: "How they Shaped India and the World
+subtitle: "How they Shaped India and the World"
 author: Chinmay Tumbe
 author_last: Tumbe
 slug: tumbe-age-of-pandemics

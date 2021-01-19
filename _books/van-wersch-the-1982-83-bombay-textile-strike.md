@@ -1,5 +1,5 @@
 ---
-title: "The 1982-93 Bombay Textile Strike"
+title: "The 1982-83 Bombay Textile Strike"
 subtitle: "And the Unmaking of a Labourers' City"
 author: Hub van Wersch
 author_last: van Wersch

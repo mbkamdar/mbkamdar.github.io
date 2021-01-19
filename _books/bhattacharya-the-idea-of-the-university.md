@@ -1,5 +1,5 @@
 ---
-title: "The Idae of the University"
+title: "The Idea of the University"
 subtitle: "Histories and Contexts"
 author: Debaditya Bhattacharya
 author_last: Bhattacharya
