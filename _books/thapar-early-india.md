@@ -11,8 +11,8 @@ isbn: 9780143029892
 goodreads_id: 15768906
 publish_year: 2003
 pages: 555
-rating: 
+rating: 4
 date_started: 2021-01-01
-date_completed:
+date_completed: 2021-01-17
 priority: high
 ---
