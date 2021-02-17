@@ -26,7 +26,7 @@ The six core competencies are:
 5. Scene Execution
 6. Writing Voice
 
-A story, at its most elemntal level is:
+A story, at its most elemental level is:
 
 After a hook and a setup the hero begins a quest, the pursuit of a need or a solution, from which springs a specific goal (survival, revenge, happiness, health, peace, wealth, justice, etc.), and then must square off with and ultimately conquer (or not) obstacles—this being the most critical element of storytelling: conflict. You then toss in a few inner demons as well as some exterior antagonistic forces, giving the hero something to battle and outwit and conquer as he strives to reach his goal.
 
