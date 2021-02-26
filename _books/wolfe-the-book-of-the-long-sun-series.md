@@ -1,5 +1,5 @@
 ---
-title: "The Book fo the Long Sun series"
+title: "The Book of the Long Sun series"
 subtitle: "Litany of the Long Sun, Epiphany of the Long Sun"
 author: Gene Wolfe
 author_last: Wolfe
