@@ -13,7 +13,7 @@ publish_year: 2014
 pages: 1503
 rating: 4
 date_started: 2021-04-27
-date_completed: 2021-05-04
+date_completed: 2021-06-08
 priority: high
 ---
 
