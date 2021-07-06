@@ -13,13 +13,13 @@ publish_year: 2014
 pages: 1503
 rating: 4
 date_started: 2021-04-27
-date_completed: 2021-06-08
+date_completed: 2021-07-06
 priority: high
 ---
 
 > "We cannot blame ourselves for the wars our parents start. Sometimes the very best thing we can do is walky away."
 
-I've read the first two novels in the series so far - The Long Way to a Small, Angry Planet, and A Closed and Common Orbit - and am currently reading the third one in the series - Record of a Spaceborn Few. I am tempted to give it 5 stars, but I've refrained from doing so on the (perhaps ill-advised) idea that 5 stars is for 'life changing' books. 
+I've read the first three novels in the series so far - The Long Way to a Small, Angry Planet; A Closed and Common Orbit; and Record of a Spaceborn Few - and am about to read the last one in the series - The Galaxy, and the Ground Within. ~~I am tempted to give it 5 stars, but I've refrained from doing so on the (perhaps ill-advised) idea that 5 stars is for 'life changing' books.~~ After reading all three novels, I give it a solid 4 stars - would have considered even 3 stars, but it's just such a fun read; and the first novel is particularly great that 4 stars it is.
 
 I can't claim the first novel has changed my life, but it is an incredibly enjoyable read almost from first page to last. It was just so much fun. Reviews appear to frequently mention "feel-good science fiction" and "breezy television writing" and I can't exactly disgaree with such characterizations (though I mean these as a good thing). Highly recommended. A quote from the first one.
 
@@ -35,3 +35,7 @@ Or another:
 > "It's not all that," Tak said. "A lot of it, yes. But there's good things, too. There's art and cities and science. All the things we've discovered. All the things we've learned and made better."  
 >  
 > "All the things made better for *some* people. Nobody has ever figured out how to make things better for *everybody*."
+
+The third one is a return to somewhat less philosophizing, and more story telling. It's a bit jumbled at first with quite a few (five!) seemingly separate stories running in parallel. But it's a fun read again. It isn't as easy to quote as it's much more about storytelling within context, but just a sample one to whet your appetitite:
+
+> There was a difference between being shy and being sequestered. Rarely in history had things turned out well for people who chose to lock themselves away.

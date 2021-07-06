@@ -12,7 +12,7 @@ goodreads_id: 49247043
 publish_year: 2021
 pages: 528
 rating: 
-date_started:
+date_started: 2021-07-06
 date_completed:
 priority: high
 ---
