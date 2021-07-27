@@ -99,8 +99,8 @@ Books I've read, sorted by category and rating, are noted below.
             {% endif %}
             {% endif %}
         {% endfor %}
-        <br />
         {% endfor %}
+        <br />
     </table>
 </div>
 
@@ -125,8 +125,8 @@ Books I've read, sorted by category and rating, are noted below.
             {% endif %}
             {% endif %}
         {% endfor %}
-        <br />
         {% endfor %}
+        <br />
     </table>
 </div>
 
