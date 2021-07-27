@@ -99,6 +99,7 @@ Books I've read, sorted by category and rating, are noted below.
             {% endif %}
             {% endif %}
         {% endfor %}
+        <br />
         {% endfor %}
     </table>
 </div>
@@ -121,10 +122,10 @@ Books I've read, sorted by category and rating, are noted below.
                 <td>{% include book-rating.html %}</td>
                 <td>{{ book.genre | capitalize }}</td>
             </tr>
-            <br />
             {% endif %}
             {% endif %}
         {% endfor %}
+        <br />
         {% endfor %}
     </table>
 </div>
