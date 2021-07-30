@@ -11,7 +11,7 @@ isbn: 9780525658696
 goodreads_id: 51792100
 publish_year: 2020
 pages: 304
-rating: 2
+rating: 1
 date_started: 2021-02-16
 date_completed: 2021-02-18
 priority: medium
