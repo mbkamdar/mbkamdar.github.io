@@ -13,13 +13,15 @@ publish_year: 2014
 pages: 1503
 rating: 4
 date_started: 2021-04-27
-date_completed: 2021-07-06
+date_completed: 2021-08-11
 priority: high
 ---
 
 > "We cannot blame ourselves for the wars our parents start. Sometimes the very best thing we can do is walky away."
 
-I've read the first three novels in the series so far - The Long Way to a Small, Angry Planet; A Closed and Common Orbit; and Record of a Spaceborn Few - and am about to read the last one in the series - The Galaxy, and the Ground Within. ~~I am tempted to give it 5 stars, but I've refrained from doing so on the (perhaps ill-advised) idea that 5 stars is for 'life changing' books.~~ After reading all three novels, I give it a solid 4 stars - would have considered even 3 stars, but it's just such a fun read; and the first novel is particularly great that 4 stars it is.
+> Sorrow was the right thing to feel when there were two doors in front of you and you knew that one of them was going to stay closed.
+
+I've now read all four novels in the series so far - The Long Way to a Small, Angry Planet; A Closed and Common Orbit; Record of a Spaceborn Few; and The Galaxy and the Ground Within. ~~I am tempted to give it 5 stars, but I've refrained from doing so on the (perhaps ill-advised) idea that 5 stars is for 'life changing' books.~~ After reading all four novels, I give it a solid 4 stars - would have considered even 3 stars, but it's just such a fun read; and the first novel is particularly great that 4 stars it is.
 
 I can't claim the first novel has changed my life, but it is an incredibly enjoyable read almost from first page to last. It was just so much fun. Reviews appear to frequently mention "feel-good science fiction" and "breezy television writing" and I can't exactly disgaree with such characterizations (though I mean these as a good thing). Highly recommended. A quote from the first one.
 
@@ -39,3 +41,11 @@ Or another:
 The third one is a return to somewhat less philosophizing, and more story telling. It's a bit jumbled at first with quite a few (five!) seemingly separate stories running in parallel. But it's a fun read again. It isn't as easy to quote as it's much more about storytelling within context, but just a sample one to whet your appetitite:
 
 > There was a difference between being shy and being sequestered. Rarely in history had things turned out well for people who chose to lock themselves away.
+
+The fourth one is a nice sweeping look at a few of the sapient species in this world. It's definitely a fun read - not as sweeping as the first one, and not as philosophizing as the second one, and a return to the feel-good factor for sure.
+
+A couple of excerpts from the _less_ feel-good parts of the novel:
+
+> 'You haven't fixed anything. You put a stamp and a permit and a shiny coat of paint on an idea that has been fundamentally damaged from day one. You engaged in bloody theft and you called it *progress*, and no matter how much *better* you think you've made things, no matter how good your intentions are, that will *always* be the root of the GC. You cannot divorce any of what you do from that. Ever.'
+
+> Sorrow was the right thing to feel when there were two doors in front of you and you knew that one of them was going to stay closed.
