@@ -19,7 +19,7 @@ priority: high
 
 This is a neat little book discussing various materials - concrete, steel, glass, etc. It is written by a materials scientist and, while not particularly technical, it does delve into some of the technical bases of these materials and the methods of production as opposed to purely a book about history and the characters involved as is often the case with a pop book.
 
-Some of the chapters are particularly great - the ones on concrete, steel, glass, graphite, porcelain. Some are quite weak - the ones on paper on plastic (unfortunately). While others are ok but not great - the ones on chocolate, foam, implants.
+Some of the chapters are particularly great - the ones on concrete, steel, glass, graphite, porcelain. Some are quite weak - the ones on paper or plastic (unfortunately). While others are ok but not great - the ones on chocolate, foam, implants.
 
 Because of the hit and miss nature of many of the chapters, this really should be a 4 star book but because there are still so many interesting parts in the book & I think at least a basic understanding of most of the materials is necessary, I've given it the highest rating.
 
